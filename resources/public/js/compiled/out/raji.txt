@@ -1,0 +1,17 @@
+THOMAS.SAMY@FRONTERACONSULTING.NET
+Password: Summer2016#
+
+
+https://eecq-dev2.fs.em3.oraclecloud.com/homePage/faces/F
+useWelcome
+
+
+
+
+https://eecq-dev2.login.em3.oraclecloud.com/oim
+
+
+Create Balances Cube..
+
+
+Navigator-> Scheduled Process -> Create new process ->
